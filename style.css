@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.panda-navbar{
+  
+     
+}
+.panda-card-footer{
+    background-color: white;
+    border: none;
+}
+.panda-card{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.panda-slide{
+    background-color: #feeae9;
+ margin-top: 80px;
+ border-radius: 5px;
+}
+.categories img{
+    width: 100px;
+}
+#subscribe{
+    background-color: #fceae8;
+}
